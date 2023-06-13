@@ -1,0 +1,48 @@
+body{
+
+}
+.menu{
+    position: absolute;
+    width: 1440px;
+    height: 199px;
+    left: 0px;
+    top: 0px;
+    
+    background: linear-gradient(180deg, #8A37A7 0%, rgba(214, 154, 235, 0) 100%);
+}
+.cabecalho{
+    position: absolute;
+    width: 1440px;
+    height: 195px;
+    left: 0px;
+    top: 248px;
+    
+    background: #000000;
+}
+.corpo{
+    position: absolute;
+    width: 1440px;
+    height: 189px;
+    left: 0px;
+    top: 512px;
+}
+.rodape{
+
+}
+.rodape-testo{
+
+position: absolute;
+width: 654px;
+height: 36px;
+left: 393px;
+top: 972px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+
+color: #73597C;
+
+}
