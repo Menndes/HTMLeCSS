@@ -2,13 +2,20 @@ body{
 
 }
 .menu{
-    position: absolute;
-    width: 1440px;
-    height: 199px;
-    left: 0px;
-    top: 0px;
+width: 192px;
+height: 199px;
+flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
     
-    background: linear-gradient(180deg, #8A37A7 0%, rgba(214, 154, 235, 0) 100%);
+.menu-texto{
+display: flex;
+width: 1091px;
+flex-direction: column;
+flex-shrink: 0;
+color: #BA7FCE;
+text-align: center;
+font-size: 30px;
+font-family: Libre Franklin;
 }
 .cabecalho{
     position: absolute;
