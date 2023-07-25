@@ -5,20 +5,21 @@ body{
 width: 192px;
 height: 199px;
 flex-shrink: 0;
-background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-    
+background: linear-gradient(180deg, #8A37A7 0%, rgba(214, 154, 235, 0.00) 100%);
+}    
 .menu-texto{
-display: flex;
-width: 1091px;
-flex-direction: column;
-flex-shrink: 0;
-color: #BA7FCE;
-text-align: center;
-font-size: 30px;
-font-family: Libre Franklin;
+    width: 304px;
+    height: 48px;
+    flex-shrink: 0;
+    color: #000;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
 .cabecalho{
-    position: absolute;
+    position: absotest lute;
     width: 1440px;
     height: 195px;
     left: 0px;
@@ -26,30 +27,38 @@ font-family: Libre Franklin;
     
     background: #000000;
 }
+.cabecalho-img{
+    width: 192px;
+height: 199px;
+flex-shrink: 0;
+}
+.cabecalho-texto{
+    color: #BA7FCE;
+text-align: center;
+font-family: Libre Franklin;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
 .corpo{
-    position: absolute;
     width: 1440px;
-    height: 189px;
-    left: 0px;
-    top: 512px;
+    height: 70px;
+    width: 1440px;
+height: 1024px;
+background: #DAB8E5;
 }
 .rodape{
 
 }
 .rodape-texto{
 
-position: absolute;
-width: 654px;
-height: 36px;
-left: 393px;
-top: 972px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 30px;
-line-height: 36px;
-
-color: #73597C;
-
+    color: #73597C;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
 }
