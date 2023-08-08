@@ -26,14 +26,13 @@ width: 1440px;
 height: 195px;
 left: 0px;
 top: 248px;
-    
 background: #000000;
 }
 .cabecalho-img{
-    
- width: 192px;
+width: 192px;
 height: 199px;
 flex-shrink: 0;
+background: url(<path-to-image>), lightgray 50% / cover no-repeat;
 }
 
 .cabecalho-texto{
