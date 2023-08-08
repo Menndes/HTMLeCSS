@@ -7,34 +7,37 @@ height: 199px;
 flex-shrink: 0;
 background: linear-gradient(180deg, #8A37A7 0%, rgba(214, 154, 235, 0.00) 100%);
 }    
+
 .menu-texto{
-    width: 304px;
-    height: 48px;
-    flex-shrink: 0;
-    color: #000;
+ width: 304px;
+height: 48px;
+flex-shrink: 0;
+color: #000;
 font-family: Inter;
 font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
+
 .cabecalho{
-    position: absotest lute;
-    width: 1440px;
-    height: 195px;
-    left: 0px;
-    top: 248px;
+position: absotest lute;
+width: 1440px;
+height: 195px;
+left: 0px;
+top: 248px;
     
-    background: #000000;
+background: #000000;
 }
 .cabecalho-img{
     
-    width: 192px;
+ width: 192px;
 height: 199px;
 flex-shrink: 0;
 }
+
 .cabecalho-texto{
-    color: #BA7FCE;
+color: #BA7FCE;
 text-align: center;
 font-family: Libre Franklin;
 font-size: 30px;
@@ -44,32 +47,35 @@ line-height: normal;
 }
 
 .corpo{
-    width: 1440px;
-    height: 70px;
-    width: 1440px;
+width: 1440px;
+height: 70px;
+width: 1440px;
 height: 1024px;
 background: #DAB8E5;
 }
+
 .corpo-itens{
 
-    text-align: center;
-    padding: 16px 0;
+text-align: center;
+padding: 16px 0;
 }
+
 .corpo-itens-img{
-    width: 280px;
+width: 280px;
 }
+
 .rodape{
-    width: 1440px;
+width: 1440px;
 height: 114px;
 flex-shrink: 0;
 background: #DAB8E5;
 }
+
 .rodape-texto{
-    color: #73597C;
-    font-family: Inter;
-    font-size: 30px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    
+color: #73597C;
+font-family: Inter;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
